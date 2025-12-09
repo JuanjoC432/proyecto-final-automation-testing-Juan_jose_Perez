@@ -1,0 +1,119 @@
+2025-11-30 16:49:01 INFO TalentoTech: Datos del usuario
+2025-11-30 16:49:01 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-11-30 16:49:01 INFO TalentoTech: test de login completo
+2025-11-30 16:49:16 INFO TalentoTech: Datos del usuario
+2025-11-30 17:44:10 INFO TalentoTech: Datos del usuario
+2025-11-30 17:44:10 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-11-30 17:44:10 INFO TalentoTech: test de login completo
+2025-11-30 17:44:25 INFO TalentoTech: Datos del usuario
+2025-11-30 17:47:47 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-11-30 17:47:48 INFO TalentoTech: Status code: 200
+2025-11-30 17:47:48 INFO TalentoTech: Validando el id dentro del usuario
+2025-11-30 17:50:26 INFO TalentoTech: Datos del usuario
+2025-11-30 17:50:26 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-11-30 17:50:26 INFO TalentoTech: test de login completo
+2025-11-30 17:50:40 INFO TalentoTech: Datos del usuario
+2025-11-30 17:54:26 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-11-30 17:54:26 INFO TalentoTech: Status code: 200
+2025-11-30 17:54:26 INFO TalentoTech: Validando el id dentro del usuario
+2025-11-30 18:02:48 INFO TalentoTech: validacion login
+2025-11-30 18:03:03 INFO TalentoTech: validacion login
+2025-12-03 21:19:34 INFO TalentoTech: Datos del usuario
+2025-12-03 21:19:34 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-03 21:19:34 INFO TalentoTech: test de login completo
+2025-12-03 21:19:48 INFO TalentoTech: Datos del usuario
+2025-12-03 21:23:12 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-03 21:23:13 INFO TalentoTech: Status code: 401
+2025-12-03 21:25:40 INFO TalentoTech: Datos del usuario
+2025-12-03 21:25:40 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-03 21:25:40 INFO TalentoTech: test de login completo
+2025-12-03 21:25:54 INFO TalentoTech: Datos del usuario
+2025-12-03 21:29:40 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-03 21:29:41 INFO TalentoTech: Status code: 401
+2025-12-03 23:29:29 INFO TalentoTech: Datos del usuario
+2025-12-03 23:29:29 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-03 23:29:29 INFO TalentoTech: test de login completo
+2025-12-03 23:43:56 INFO TalentoTech: Datos del usuario
+2025-12-03 23:43:56 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-03 23:43:56 INFO TalentoTech: test de login completo
+2025-12-03 23:44:10 INFO TalentoTech: Datos del usuario
+2025-12-04 00:01:34 INFO TalentoTech: Datos del usuario
+2025-12-04 00:01:34 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-04 00:01:34 INFO TalentoTech: test de login completo
+2025-12-04 00:01:49 INFO TalentoTech: Datos del usuario
+2025-12-04 21:00:58 INFO TalentoTech: Datos del usuario
+2025-12-04 21:00:58 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-04 21:00:58 INFO TalentoTech: test de login completo
+2025-12-04 21:01:16 INFO TalentoTech: Datos del usuario
+2025-12-04 21:06:43 INFO TalentoTech: Datos del usuario
+2025-12-04 21:06:43 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-04 21:06:43 INFO TalentoTech: test de login completo
+2025-12-04 21:06:59 INFO TalentoTech: Datos del usuario
+2025-12-04 21:44:17 INFO TalentoTech: Datos del usuario
+2025-12-04 21:44:17 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-04 21:44:17 INFO TalentoTech: test de login completo
+2025-12-04 21:44:32 INFO TalentoTech: Datos del usuario
+2025-12-07 13:30:04 INFO TalentoTech: Datos del usuario
+2025-12-07 13:30:04 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-07 13:30:04 INFO TalentoTech: test de login completo
+2025-12-07 13:30:18 INFO TalentoTech: Datos del usuario
+2025-12-07 13:40:44 INFO TalentoTech: Datos del usuario
+2025-12-07 13:40:44 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-07 13:40:44 INFO TalentoTech: test de login completo
+2025-12-07 13:40:59 INFO TalentoTech: Datos del usuario
+2025-12-07 13:42:52 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-07 13:42:54 INFO TalentoTech: Status code: 401
+2025-12-07 13:56:22 INFO TalentoTech: Datos del usuario
+2025-12-07 13:56:22 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-07 13:56:22 INFO TalentoTech: test de login completo
+2025-12-07 13:56:37 INFO TalentoTech: Datos del usuario
+2025-12-07 13:58:35 INFO TalentoTech: validacion login
+2025-12-07 13:58:49 INFO TalentoTech: validacion login
+2025-12-07 14:00:18 INFO TalentoTech: Datos del usuario
+2025-12-07 14:00:18 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-07 14:00:18 INFO TalentoTech: test de login completo
+2025-12-07 14:00:35 INFO TalentoTech: Datos del usuario
+2025-12-07 14:02:43 INFO TalentoTech: validacion login
+2025-12-07 14:02:57 INFO TalentoTech: validacion login
+2025-12-07 14:03:03 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-07 14:03:04 INFO TalentoTech: Status code: 401
+2025-12-07 14:20:52 INFO TalentoTech: Datos del usuario
+2025-12-07 14:20:52 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-07 14:20:52 INFO TalentoTech: test de login completo
+2025-12-07 14:21:08 INFO TalentoTech: Datos del usuario
+2025-12-07 14:23:05 INFO TalentoTech: validacion login
+2025-12-07 14:23:19 INFO TalentoTech: validacion login
+2025-12-07 14:23:24 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-07 14:23:25 INFO TalentoTech: Status code: 401
+2025-12-07 15:04:02 INFO TalentoTech: Datos del usuario
+2025-12-07 15:04:02 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-07 15:04:02 INFO TalentoTech: test de login completo
+2025-12-07 15:04:17 INFO TalentoTech: Datos del usuario
+2025-12-07 15:06:12 INFO TalentoTech: validacion login
+2025-12-07 15:06:27 INFO TalentoTech: validacion login
+2025-12-07 15:06:31 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-07 15:06:33 INFO TalentoTech: Status code: 403
+2025-12-07 15:10:22 INFO TalentoTech: Datos del usuario
+2025-12-07 15:10:22 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-07 15:10:22 INFO TalentoTech: test de login completo
+2025-12-07 15:10:37 INFO TalentoTech: Datos del usuario
+2025-12-07 15:12:32 INFO TalentoTech: validacion login
+2025-12-07 15:12:47 INFO TalentoTech: validacion login
+2025-12-07 15:12:51 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-07 15:12:52 INFO TalentoTech: Status code: 403
+2025-12-07 15:18:19 INFO TalentoTech: Datos del usuario
+2025-12-07 15:18:19 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-07 15:18:19 INFO TalentoTech: test de login completo
+2025-12-07 15:18:34 INFO TalentoTech: Datos del usuario
+2025-12-07 15:20:29 INFO TalentoTech: validacion login
+2025-12-07 15:20:44 INFO TalentoTech: validacion login
+2025-12-07 15:20:49 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-07 15:20:49 INFO TalentoTech: Status code: 403
+2025-12-08 21:33:43 INFO TalentoTech: Datos del usuario
+2025-12-08 21:33:43 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-08 21:33:43 INFO TalentoTech: test de login completo
+2025-12-08 21:33:58 INFO TalentoTech: Datos del usuario
+2025-12-08 21:35:53 INFO TalentoTech: validacion login
+2025-12-08 21:36:07 INFO TalentoTech: validacion login
+2025-12-08 21:36:11 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-08 21:36:12 INFO TalentoTech: Status code: 403
