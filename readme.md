@@ -24,7 +24,7 @@ Tambien se genera un log con informacion detallada de toda la ejecución de las 
 
 # Capturas de pantalla
 
-Se realizan capturas de pantalla por cada test que haya fallado y se encuentran en la siguiente ubicacion: ```screenshots/```
+Se realizan capturas de pantalla por cada test que haya fallado y se encuentran en la siguiente ubicacion: ```reports/screenshots/```
 
 # Ejuctar todas las pruebas
 Para iniciar la ejecucion de las pruebas debes ejecutar la siguiente linea:

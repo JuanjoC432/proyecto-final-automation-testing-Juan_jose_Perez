@@ -22,7 +22,6 @@ def test_cart(login_in_driver,usuario,password):
         
         productos_en_carrito = cartPage.obtener_productos_carrito()
         assert len(productos_en_carrito) == 1
-        
 
     except Exception as e:
         print(f"Error en test_cart: {e}")

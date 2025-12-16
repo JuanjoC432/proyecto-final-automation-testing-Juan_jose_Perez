@@ -117,3 +117,83 @@
 2025-12-08 21:36:07 INFO TalentoTech: validacion login
 2025-12-08 21:36:11 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
 2025-12-08 21:36:12 INFO TalentoTech: Status code: 403
+2025-12-10 22:02:46 INFO TalentoTech: Datos del usuario
+2025-12-10 22:02:46 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-10 22:02:46 INFO TalentoTech: test de login completo
+2025-12-10 22:03:01 INFO TalentoTech: Datos del usuario
+2025-12-10 22:04:57 INFO TalentoTech: validacion login
+2025-12-10 22:05:11 INFO TalentoTech: validacion login
+2025-12-10 22:05:16 INFO TalentoTech: Relizando la solitud GET a https://reqres.in/api/users 
+2025-12-10 22:05:16 INFO TalentoTech: Status code: 403
+2025-12-10 22:06:55 INFO TalentoTech: Datos del usuario
+2025-12-10 22:06:55 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-10 22:06:55 INFO TalentoTech: test de login completo
+2025-12-10 22:07:11 INFO TalentoTech: Datos del usuario
+2025-12-10 22:09:14 INFO TalentoTech: validacion login
+2025-12-10 22:09:28 INFO TalentoTech: validacion login
+2025-12-10 22:19:04 INFO TalentoTech: Datos del usuario
+2025-12-10 22:19:04 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-10 22:19:04 INFO TalentoTech: test de login completo
+2025-12-10 22:19:19 INFO TalentoTech: Datos del usuario
+2025-12-10 22:21:15 INFO TalentoTech: validacion login
+2025-12-10 22:21:30 INFO TalentoTech: validacion login
+2025-12-10 22:24:24 INFO TalentoTech: Datos del usuario
+2025-12-10 22:24:24 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-10 22:24:24 INFO TalentoTech: test de login completo
+2025-12-10 22:24:38 INFO TalentoTech: Datos del usuario
+2025-12-10 22:26:32 INFO TalentoTech: validacion login
+2025-12-10 22:26:47 INFO TalentoTech: validacion login
+2025-12-10 22:50:52 INFO TalentoTech: Datos del usuario
+2025-12-10 22:50:52 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-10 22:50:52 INFO TalentoTech: test de login completo
+2025-12-10 22:51:06 INFO TalentoTech: Datos del usuario
+2025-12-10 22:53:02 INFO TalentoTech: validacion login
+2025-12-10 22:53:16 INFO TalentoTech: validacion login
+2025-12-10 22:54:47 INFO TalentoTech: Datos del usuario
+2025-12-10 22:54:47 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-10 22:54:47 INFO TalentoTech: test de login completo
+2025-12-10 22:55:01 INFO TalentoTech: Datos del usuario
+2025-12-10 22:56:58 INFO TalentoTech: validacion login
+2025-12-10 22:57:12 INFO TalentoTech: validacion login
+2025-12-10 23:04:03 INFO TalentoTech: Datos del usuario
+2025-12-10 23:04:03 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-10 23:04:03 INFO TalentoTech: test de login completo
+2025-12-10 23:04:17 INFO TalentoTech: Datos del usuario
+2025-12-10 23:06:14 INFO TalentoTech: validacion login
+2025-12-10 23:06:28 INFO TalentoTech: validacion login
+2025-12-14 22:34:20 INFO TalentoTech: Datos del usuario
+2025-12-14 22:34:20 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-14 22:34:20 INFO TalentoTech: test de login completo
+2025-12-14 22:34:35 INFO TalentoTech: Datos del usuario
+2025-12-14 22:34:49 INFO TalentoTech: validacion login
+2025-12-14 22:35:03 INFO TalentoTech: validacion login
+2025-12-14 22:40:56 INFO TalentoTech: Datos del usuario
+2025-12-14 22:40:56 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-14 22:40:56 INFO TalentoTech: test de login completo
+2025-12-14 22:41:09 INFO TalentoTech: Datos del usuario
+2025-12-14 22:41:23 INFO TalentoTech: validacion login
+2025-12-14 22:41:37 INFO TalentoTech: validacion login
+2025-12-14 22:57:46 INFO TalentoTech: Datos del usuario
+2025-12-14 22:57:46 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-14 22:57:46 INFO TalentoTech: test de login completo
+2025-12-14 22:57:59 INFO TalentoTech: Datos del usuario
+2025-12-14 22:58:13 INFO TalentoTech: validacion login
+2025-12-14 22:58:26 INFO TalentoTech: validacion login
+2025-12-14 23:12:43 INFO TalentoTech: Datos del usuario
+2025-12-14 23:12:43 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-14 23:12:43 INFO TalentoTech: test de login completo
+2025-12-14 23:12:56 INFO TalentoTech: Datos del usuario
+2025-12-14 23:13:10 INFO TalentoTech: validacion login
+2025-12-14 23:13:23 INFO TalentoTech: validacion login
+2025-12-15 21:12:24 INFO TalentoTech: Datos del usuario
+2025-12-15 21:12:24 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-15 21:12:24 INFO TalentoTech: test de login completo
+2025-12-15 21:12:38 INFO TalentoTech: Datos del usuario
+2025-12-15 21:12:50 INFO TalentoTech: validacion login
+2025-12-15 21:13:06 INFO TalentoTech: validacion login
+2025-12-15 21:48:40 INFO TalentoTech: Datos del usuario
+2025-12-15 21:48:40 INFO TalentoTech: verificando redireccionamiento dentro de la pgina
+2025-12-15 21:48:40 INFO TalentoTech: test de login completo
+2025-12-15 21:48:54 INFO TalentoTech: Datos del usuario
+2025-12-15 21:49:08 INFO TalentoTech: validacion login
+2025-12-15 21:49:23 INFO TalentoTech: validacion login
