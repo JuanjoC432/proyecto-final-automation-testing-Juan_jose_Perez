@@ -20,7 +20,7 @@ def test_inventory(login_in_driver,usuario,password):
         inventory_page.agregar_primer_producto()
 
         # Verificar el contador del carrito
-        assert inventory_page.obtener_conteo_carrito() == 1
+        assert inventory_page.obtener_conteo_carrito() == 50
        
     except Exception as e:
         print(f"Error en test_inventory: {e}")
